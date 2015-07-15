@@ -15,7 +15,7 @@ Hello, I'm Phil. I live in London. My apartment is close to the Houses of Parlia
 
 *John*: Hello Phil. Late again!
 
-*Emily*: Hello Phil. How is your wri:ting going?
+*Emily*: Hello Phil. How is your writing going?
   - How is your writing going?:进展
 
 *Phil*: You know. It's all in my head not on paper.
@@ -61,4 +61,87 @@ Hello, I'm Phil. I live in London. My apartment is close to the Houses of Parlia
   - offer to do: 主动做某事
   - mad isn't it? 反问
   - I'm not someone who... 我不是...人
- 
+
+*Phil*: Slight problem... I can't sail.
+
+*Tom*: No problem. There's an app you can download. It'll show you everything.
+
+*Phil*: An app? I'll need more than that. I've never sailed a yacht in my life.
+
+  - I need *more than* that.
+
+*Tom*: It's easy! And how about if I give you the boat - I'll never use it again - you can sell it when you get back. It'll earn you a fortune, on top of the money you get from your travel writing.
+
+  - on top of 
+
+*Phil*: I couldn't possibly keep you yacht. You might want to use it again one day.
+
+
+*Tom*: Hmmm yes, that's true.
+
+*John*:I know. Why don't you make it into a challenge?
+
+  - make it into a challenge.
+
+*Tom*:Yes, John! Great idea. I'll tell you what – I'll make you a bet.
+
+*Phil*:A bet – for money – what is it?
+
+*Tom*: Do you remember that story by Jules Verne – when that guy, Phileas Fogg had to travel around the world in 80 days?
+
+*Phil*:Yes.
+
+*Tom*: Well, you've got to do it in 80 days. I bet you the boat that you won't do it. If you don't do it, I'll keep the boat. If you do sail around the world in 80 days, then you can keep the boat – and you can sell it if you want. He'll never do it!
+
+  - bet: n.&v., bet you the boat.
+
+*Phil*: Hold on. How much have you had to drink? You want me to sail around the world, on my own, in 80 days?! Impossible.
+
+  - hold on：等一等。
+
+*Tom*: I know. But if you want an adventure – and you want to keep the yacht – then that's the challenge. Exactly 80 days to sail all the way around the world – not a minute longer.
+
+*Emily*： Go on Phil, it'll be brilliant. Here, have another drink…
+
+  - have another drink
+
+*John*： Yes, and have my drink too.
+
+  - have my drink 
+
+*Phil*: (speaking to himself) What should I do? It is true I need an adventure but this one is huge. I know, I'll have a few more drinks and think about it…
+
+*Phil* (SLURP OF DRINK) OK. Yes - I accept the challenge!
+
+  - slurp: [slɜːp]吃/喝的声音
+
+**Activity 4**
+
+One, two. One, two. Is this working? Good.
+
+Hi. I'm Phil. I'm about to sail around the world for the first time in my life. Crazy isn't it?
+
+Now, what's even crazier I have been set the challenge to do it in 80 days. Eight, zero! I've been thinking about some of things I need to take, let me show you.
+
+I have a map. And a compass – north, east, west and south – that's where we're going, south. I also have a satnav. And some food too: non-perishable of course. And some drinking water – very useful! There's plenty of water in the sea but you can't drink it really. Nice and wet.
+
+Speaking of wet, I also have a waterproof jacket. I don't want to get too wet, do I? And, last but not least I have a captain's hat. How do I look?
+
+Now, what other things do you think I might need for such an epic adventure? OK, it's time to set sail. See you later.
+
+- is this working?
+
+- What's even crazier is I have been set the challenge to do it in 80 days.
+
+- I've been thinking about some of the things I might need to take.
+
+- satnav: a short way to say satellite navigation: Technology that shows you where you are and gives directions.
+
+- perishable: adj. 易腐坏的
+
+- last but not least: Last in sequence but not least in importance. something that you say before introducing the last person or thing on a list, meaning that they are equally important . 
+
+- epic:  Heroic and impressive in quality.
+
+- set sail.
+
