@@ -2,8 +2,6 @@
 
 [transcript](http://www.thisamericanlife.org/radio-archives/episode/557/transcript)
 
-[Act Two](http://www.thisamericanlife.org/radio-archives/episode/557/birds-bees?act=2)
-
 ##Prologue
 
 1. I'm taking over today's show because we're talking about questions that I think are pretty fundamental to all of us at various points in our lives but are especially pressing for me these days.
@@ -386,8 +384,7 @@
 
   - It's full of cushions and large rubber yoga balls. It's even got an adult-sized dummy to wrestle and punch. The kids can scream, yell, pound the walls, and throw things around. They love it.
 
-23.bottle: v. to confine as if in a bottle :restrain usually used with up. 
-
+23. bottle: v. to confine as if in a bottle :restrain usually used with up. 
   - bottling up their anger
 
 24. fit: n. 一阵, 阵发
@@ -416,4 +413,56 @@
 
 33. conceive: vi.设想；考虑
 
-34. 
+34. intimate: adj. deeply personal, private, or secret
+
+  - when they start to get intimate, they cannot bear it, and they go off.
+
+35. go off: to become bad-tempered
+
+36. committed suicide: 自杀
+
+  - Sometimes that task, telling the kids that their parent committed suicide, falls to Jill Macfarlane. 
+
+37. mean to
+
+  - One family said that he accidentally shot himself. He didn't mean to.
+
+38. It was Jill who helped their mom break the news to Aidan and Gavin that their dad shot himself. 
+
+39. cloak: 遮掩 , kləʊk
+
+  - They also don't want to have to cloak it in a way that suggests it's unspeakable and shameful. They get enough of that idea at school. They get enough of that idea at school.
+
+40. sorcery: 'sɔːs(ə)rɪ, n. 魔术，巫术
+
+  - the use of power gained from the assistance or control of evil spirits especially for divining :necromancy
+
+41. The Sharing Place never corrects any of the kids or forces them to say anything they don't want to.
+
+42. coach: 指导
+
+43. But it's a whole other thing to talk with a kid at The Sharing Place who says, I know exactly what you're talking about.
+
+  - a whole other thing
+
+43. bang: 刘海
+
+44. The goodbye is ceremonial
+
+  - adj. 仪式的；正式的，礼仪的
+
+45.  And anybody who wanted to could pick up the talking stick and say a few words.
+
+46. He had long bangs hanging over his eyes and, except for his name, didn't say anything the whole time.
+
+47. veteran: adj. 经验丰富的；老兵的. 'vet(ə)r(ə)n
+
+  - Whenever a new person joins, the veteran kids have a chance to gauge their own progress, to remember what they were like when they first showed up, and think about how bad it used to be, and how now it isn't as bad. 
+
+48. gauge: geɪdʒ, to measure precisely the size, dimensions, or other measurable quantity of
+
+49. make way for:
+
+  - they'll make way for someone on the long waiting list, a list on which new names are added all the time. 
+
+  
