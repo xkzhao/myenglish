@@ -71,14 +71,10 @@
 
   - [kənˈteɪdʒəs] 感染性的
 
-
-
 ##Pronunciation
 
 1. era
-
   - [ˈɪərə] 时代
-
   - to mark the end of an era
 
 2. during
@@ -132,7 +128,6 @@
 10. industrial pollution
 
   - 工业污染
-
 
 11. tend to accompany urban population density
 
